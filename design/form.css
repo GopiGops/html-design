@@ -1,0 +1,156 @@
+.gopi{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 400px;
+    font-weight: 100;
+    color:#ffffff;
+    font-family: sans-serif;
+
+}
+.main{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.happy{
+    width: 48%;
+    text-align: center;
+    padding: 30px 0;
+    float: left;
+    border-radius: 0px;
+    border: 1px solid #ffffff;
+    background-color: rgba(0, 0, 0, 0.21);
+}
+.sad{
+    width: 48%;
+    text-align: center;
+    float: right;
+    padding: 30px 0 70px;
+    border-radius: 0px;
+    border: 1px solid #ffffff;
+}
+h2{
+    font-size: 35px;
+    font-family: sans-serif;
+    color: white;
+}
+input[type="text"]{
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    display: inline-block;
+    margin:4%;
+    border:1px solid white;
+    border-radius:4px;
+    font-size: 18px;
+    background-color: transparent;
+}
+input[type="password"]{
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    display: inline-block;
+    border-radius:4px;
+    background-color:transparent;
+    border: 1px solid #ffffff;
+    font-size: 18px;
+    margin-top: 4%;
+}
+input[type="number"]{
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    display: inline-block;
+    border-radius:4px;
+    background-color:transparent;
+    border: 1px solid #ffffff;
+    font-size: 18px;
+}
+input[type="email"]{
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    display: inline-block;
+    border-radius:4px;
+    background-color:transparent;
+    border: 1px solid #ffffff;
+    font-size: 18px;
+    margin-top: 4%;
+}
+input[type="button"]{
+    padding: 10px 40px 10px 10px;
+    width: 80%;
+    display: inline-block;
+    border-radius:4px;
+    background-color:transparent;
+    border: 1px solid #ffffff;
+    font-size: 18px;
+    margin-top: 4%;
+    background-color: #376D29;
+}
+.bro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:4%
+}
+.app{
+    height: 45px;
+    width: 160px;
+    background-color: #376D29;
+}
+.app1{
+    height: 45px;
+    width: 160px;
+    background-color: #791F16;;
+}
+::placeholder {
+    color:#ffffff;
+    font-size: 18px; 
+    font-weight: 100;
+    font-family: sans-serif;
+  }
+  body{
+      background-image: url('./images/shade.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+  }
+  .icon{
+    position: absolute !important;
+    font-size: 35px !important;
+    top: 268px !important;
+    left: 663px !important;
+    color: #fff !important;
+  }
+  .lock{
+    position: absolute !important;
+    font-size: 35px !important;
+    top: 355px !important;
+    left: 665px !important;
+    color: #fff !important; 
+  }
+  .laa{
+    position: absolute !important;
+    font-size: 35px !important;
+    color: #ffff !important;
+    left: 1273px !important;
+    top: 268px !important;
+  }
+  .sara{
+    position: absolute !important;
+    font-size: 35px !important;
+    color: #ffff !important;
+    left: 1273px !important;
+    top: 336px !important; 
+  }
+  .email{
+    position: absolute !important;
+    font-size: 35px !important;
+    color: #ffff !important;
+    left: 1273px !important;
+    top: 397px !important;  
+  }
+  .password{
+    position: absolute !important;
+    font-size: 35px !important;
+    color: #ffff !important;
+    left: 1279px !important;
+    top: 464px !important;  
+  }
